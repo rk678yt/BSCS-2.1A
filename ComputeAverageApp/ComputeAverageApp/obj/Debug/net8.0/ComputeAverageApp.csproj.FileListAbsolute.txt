@@ -1,0 +1,4 @@
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.csproj.CoreCompileInputs.cache

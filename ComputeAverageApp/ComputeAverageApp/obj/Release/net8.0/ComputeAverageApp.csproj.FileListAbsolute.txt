@@ -1,0 +1,14 @@
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Release\net8.0\ComputeAverageApp.exe
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Release\net8.0\ComputeAverageApp.deps.json
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Release\net8.0\ComputeAverageApp.runtimeconfig.json
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Release\net8.0\ComputeAverageApp.dll
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Release\net8.0\ComputeAverageApp.pdb
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.dll
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\refint\ComputeAverageApp.dll
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.pdb
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ComputeAverageApp.genruntimeconfig.cache
+C:\Users\Gempis\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Release\net8.0\ref\ComputeAverageApp.dll
