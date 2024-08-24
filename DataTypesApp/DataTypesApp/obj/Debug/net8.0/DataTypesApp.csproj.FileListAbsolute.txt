@@ -1,0 +1,14 @@
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.exe
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.deps.json
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.runtimeconfig.json
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.dll
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.dll
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\refint\DataTypesApp.dll
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.genruntimeconfig.cache
+C:\Users\Gempis\source\repos\DataTypesApp\DataTypesApp\obj\Debug\net8.0\ref\DataTypesApp.dll
