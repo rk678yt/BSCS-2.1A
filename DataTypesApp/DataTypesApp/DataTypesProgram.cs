@@ -16,7 +16,7 @@ namespace DataTypesApp
             Console.Write("How many apples do you want to buy? "); //Don't worry, those apples are not THAT expensive, unlike
             int applequant = Convert.ToInt32(Console.ReadLine()); //For inputting the amount of apples you want to buy
             Console.Write("What's the total price of " + applequant + " apple(s)? "); //How much does all cost?
-            double appleprice = double.Parse(Console.ReadLine());; //For inputting the total price
+            double appleprice = double.Parse(Console.ReadLine()); //For inputting the total price
             int appleorigprice = Convert.ToInt32(appleprice); //Converting to whole number by rounding up or down
             Console.WriteLine("\nMaking a receipt: "); //Self explanatory
             Console.WriteLine("\n-------------------------------"); //Lines
