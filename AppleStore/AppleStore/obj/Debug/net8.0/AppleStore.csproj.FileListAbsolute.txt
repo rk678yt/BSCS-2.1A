@@ -1,0 +1,14 @@
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\bin\Debug\net8.0\AppleStore.exe
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\bin\Debug\net8.0\AppleStore.deps.json
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\bin\Debug\net8.0\AppleStore.runtimeconfig.json
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\bin\Debug\net8.0\AppleStore.dll
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\bin\Debug\net8.0\AppleStore.pdb
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.dll
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\refint\AppleStore.dll
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.pdb
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\AppleStore.genruntimeconfig.cache
+C:\Users\Gempis\source\repos\AppleStore\AppleStore\obj\Debug\net8.0\ref\AppleStore.dll
