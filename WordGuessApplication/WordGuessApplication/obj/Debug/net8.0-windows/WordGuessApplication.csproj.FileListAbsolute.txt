@@ -1,0 +1,17 @@
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.exe
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.deps.json
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.runtimeconfig.json
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.dll
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.pdb
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.String.resources
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.GenerateResource.cache
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.dll
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\refint\WordGuessApplication.dll
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.pdb
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.genruntimeconfig.cache
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\ref\WordGuessApplication.dll
+C:\Users\Gempis\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.Properties.Resources.resources
