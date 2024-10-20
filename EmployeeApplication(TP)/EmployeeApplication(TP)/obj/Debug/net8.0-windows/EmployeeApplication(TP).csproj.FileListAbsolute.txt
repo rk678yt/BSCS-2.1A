@@ -1,0 +1,16 @@
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\bin\Debug\net8.0-windows\EmployeeApplication(TP).exe
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\bin\Debug\net8.0-windows\EmployeeApplication(TP).deps.json
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\bin\Debug\net8.0-windows\EmployeeApplication(TP).runtimeconfig.json
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\bin\Debug\net8.0-windows\EmployeeApplication(TP).dll
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\bin\Debug\net8.0-windows\EmployeeApplication(TP).pdb
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).csproj.GenerateResource.cache
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).AssemblyInfo.cs
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).dll
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\refint\EmployeeApplication(TP).dll
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).pdb
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication(TP).genruntimeconfig.cache
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\ref\EmployeeApplication(TP).dll
+C:\Users\Gempis\source\repos\EmployeeApplication(TP)\EmployeeApplication(TP)\obj\Debug\net8.0-windows\EmployeeApplication_TP_.frmComputeSalary.resources
