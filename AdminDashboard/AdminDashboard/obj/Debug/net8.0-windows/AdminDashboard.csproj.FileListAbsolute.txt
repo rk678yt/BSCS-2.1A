@@ -1,0 +1,17 @@
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\bin\Debug\net8.0-windows\AdminDashboard.exe
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\bin\Debug\net8.0-windows\AdminDashboard.deps.json
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\bin\Debug\net8.0-windows\AdminDashboard.runtimeconfig.json
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\bin\Debug\net8.0-windows\AdminDashboard.dll
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\bin\Debug\net8.0-windows\AdminDashboard.pdb
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.Form1.resources
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.Properties.Resources.resources
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.csproj.GenerateResource.cache
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.AssemblyInfoInputs.cache
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.AssemblyInfo.cs
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.dll
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\refint\AdminDashboard.dll
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.pdb
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\AdminDashboard.genruntimeconfig.cache
+C:\Users\Gempis\source\repos\AdminDashboard\AdminDashboard\obj\Debug\net8.0-windows\ref\AdminDashboard.dll
